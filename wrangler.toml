@@ -1,0 +1,8 @@
+name = "vim-quest"
+compatibility_date = "2026-01-03"
+
+[assets]
+directory = "./dist"
+
+[site]
+bucket = "./dist"
